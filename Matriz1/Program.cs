@@ -6,7 +6,14 @@ namespace Matriz1
     {
         static void Main(string[] args)
         {
-            
+            /*------------------------------
+
+            KAUAM SILVA BATISTA - 210501 
+
+            O erro do enunciado é que a ordem das linhas e colunas da matriz são N
+
+            ------------------------------*/
+
             //Criando a variavel
             int n = int.Parse(Console.ReadLine());
 
